@@ -1,0 +1,101 @@
+[search-placeholder]
+other = "検索"
+
+[summary-dateformat]
+other = "2006年 01月 02日"
+
+[reading-time]
+other = "分でこの記事を読むことができます"
+
+[tags]
+other = "タブ"
+
+[categories]
+other = "カテゴリ"
+
+[series]
+other = "シリーズ"
+
+[archive-dateformat]
+other = "01月 02日"
+
+[talks-dateformat]
+other = "01月 02日"
+
+[single-dateformat]
+other = "2006年 01月 02日"
+
+[pub-dateformat]
+other = "2006-01-02"
+
+[resume-dateformat]
+other = "2006年 01日"
+
+[single-related]
+other = "関連記事"
+
+[single-writtenBy]
+other = "書いた人"
+
+[toc-label]
+other = "目次"
+
+[counter-site-pv]
+other = "総 ビュー数"
+
+[counter-site-uv]
+other = "総 訪問者総"
+
+[counter-page-pv]
+other = "ビュー数"
+
+[donate-message]
+other = "寄付する"
+
+[share-message]
+other = "共有する"
+
+[contact-name]
+other = "名前"
+
+[contact-email]
+other = "E-mail"
+
+[contact-tel]
+other = "電話番号"
+
+[contact-file]
+other = "ファイル"
+
+[contact-message]
+other = "内容"
+
+[contact-send]
+other = "送信"
+
+[contact-browse]
+other = "Browse"
+
+[tooltip-home]
+other = "ホームページ"
+
+[tooltip-written]
+other = "作成日"
+
+[tooltip-modified]
+other = "修正日"
+
+[tooltip-reading-time]
+other = "読む時間"
+
+[showcase-overview]
+other = "概要"
+
+[showcase-pinned]
+other = "固定"
+
+[nojs-message]
+other = "JavaScriptを活性化してください"
+
+[posts-by-order]
+other = "TOP POSTS"
