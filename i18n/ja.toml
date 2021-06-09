@@ -14,7 +14,7 @@ other = "タブ"
 other = "カテゴリ"
 
 [series]
-other = "シリーズ"
+other = "連載"
 
 [archive-dateformat]
 other = "01月 02日"
@@ -35,25 +35,25 @@ other = "2006年 01日"
 other = "関連記事"
 
 [single-writtenBy]
-other = "書いた人"
+other = "著者"
 
 [toc-label]
 other = "目次"
 
 [counter-site-pv]
-other = "総 ビュー数"
+other = "サイト閲覧数"
 
 [counter-site-uv]
-other = "総 訪問者総"
+other = "訪問者数"
 
 [counter-page-pv]
-other = "ビュー数"
+other = "ページ閲覧数"
 
 [donate-message]
-other = "寄付する"
+other = "著者をサポート"
 
 [share-message]
-other = "共有する"
+other = "共有"
 
 [contact-name]
 other = "名前"
@@ -68,34 +68,52 @@ other = "電話番号"
 other = "ファイル"
 
 [contact-message]
-other = "内容"
+other = "メッセージ"
 
 [contact-send]
 other = "送信"
 
 [contact-browse]
-other = "Browse"
+other = "ブラウズ"
 
 [tooltip-home]
-other = "ホームページ"
+other = "ホーム"
 
 [tooltip-written]
 other = "作成日"
 
 [tooltip-modified]
-other = "修正日"
+other = "編集日"
 
 [tooltip-reading-time]
-other = "読む時間"
+other = "読了時間"
 
 [showcase-overview]
 other = "概要"
 
 [showcase-pinned]
-other = "固定"
+other = "ピン留め"
 
 [nojs-message]
-other = "JavaScriptを活性化してください"
+other = "JavaScriptを有効にしてください"
 
 [posts-by-order]
-other = "TOP POSTS"
+other = "人気記事"
+
+[skin-dark]
+other = "dark"
+
+[skin-light]
+other = "light"
+
+[skin-hacker]
+other = "hacker"
+
+[skin-solarized]
+other = "solarized"
+
+[skin-kimbie]
+other = "kimbie"
+
+[no-contents]
+other = "コンテンツがありません"
